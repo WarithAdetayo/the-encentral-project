@@ -1,0 +1,4 @@
+com/encentral/staffsync/configuration/permission/impl/PermissionModule.class
+com/encentral/staffsync/configuration/permission/impl/DefaultPermissionImpl.class
+com/encentral/staffsync/configuration/rolehaspermission/impl/DefaultRoleHasPermissionImpl.class
+com/encentral/staffsync/configuration/role/impl/DefaultRoleImpl.class

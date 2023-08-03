@@ -1,0 +1,15 @@
+com/encentral/staffsync/configuration/role/api/IRole.class
+com/encentral/staffsync/configuration/role/model/RoleMapper.class
+com/encentral/staffsync/configuration/permission/model/PermissionMapper.class
+com/encentral/staffsync/configuration/RoleHasPermission/model/RoleHasPermissionMapper.class
+com/encentral/staffsync/configuration/role/model/Role.class
+com/encentral/staffsync/configuration/RoleHasPermission/api/IRoleHasPermission.class
+com/encentral/staffsync/configuration/RoleHasPermission/model/RoleHasPermission.class
+com/encentral/staffsync/configuration/permission/model/Permission.class
+com/encentral/staffsync/configuration/role/api/IRoleMapper.class
+com/encentral/staffsync/configuration/permission/api/IPermissionMapperImpl.class
+com/encentral/staffsync/configuration/role/api/IRoleMapperImpl.class
+com/encentral/staffsync/configuration/permission/api/IPermissionMapper.class
+com/encentral/staffsync/configuration/RoleHasPermission/api/IRoleHasPermissionMapperImpl.class
+com/encentral/staffsync/configuration/permission/api/IPermission.class
+com/encentral/staffsync/configuration/RoleHasPermission/api/IRoleHasPermissionMapper.class

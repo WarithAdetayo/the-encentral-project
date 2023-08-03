@@ -1,0 +1,5 @@
+com/encentral/scaffold/commons/PostgresSqlQueryFactory.class
+com/encentral/scaffold/commons/SqlQueryFactoryCallable.class
+com/encentral/staffsync/commons/util/Mapper.class
+com/encentral/staffsync/commons/util/ObjMapper.class
+com/encentral/scaffold/commons/PostgresSqlQueryFactory$MyConnectionWrapper.class
